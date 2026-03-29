@@ -1,4 +1,4 @@
-# Lang Master v0.2
+# Lang Master
 Language packs made easy
 
 Lang master aids you in renaming every block, item, and UI element in Minecraft through a clean interface
