@@ -15,3 +15,6 @@ If you want to run the code yourself, you need Python 3.10+ and the CustomTinker
 # Credits
 Created by <a href="https://www.youtube.com/@Vaporwave3">Vaporwave</a>
 Built with <a href="https://github.com/TomSchimansky/CustomTkinter">CustomTinker</a>
+
+
+<img width="1918" height="1032" alt="{57A00281-6055-4ACE-A43F-EE9B75AE6E95}" src="https://github.com/user-attachments/assets/bc60e664-47dd-46e4-8e69-90149bbcd65f" />
